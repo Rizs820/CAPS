@@ -1,0 +1,1300 @@
+[19-Aug-2017 02:59:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 02:59:37 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 02:59:37 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 02:59:37 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:14:27 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:14:27 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:14:27 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:14:27 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[19-Aug-2017 11:16:13 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:16:15 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[19-Aug-2017 11:16:19 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:16:22 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 11:16:55 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:16:55 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:16:55 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:16:55 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:16:55 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 11:17:12 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:17:12 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:17:12 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:17:12 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:27:15 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:27:15 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:27:15 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:27:15 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[19-Aug-2017 11:27:28 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 11:27:30 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 11:38:12 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 11:38:12 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 11:38:12 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 11:38:12 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:25:01 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:25:01 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:25:01 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 12:25:01 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:25:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:25:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:25:02 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 12:25:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:26:15 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:26:15 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:26:15 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:26:15 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 12:26:15 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 12:27:55 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:27:55 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:27:55 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 12:27:55 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:29:16 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:29:16 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:29:16 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:29:16 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 12:29:16 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 12:30:39 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:30:39 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:30:39 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 12:30:39 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:38:18 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 12:38:18 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 12:38:18 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 12:38:18 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 12:38:18 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 13:49:34 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:49:34 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:49:34 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 13:49:34 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 236
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 245
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 249
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 254
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 259
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 264
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 269
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 274
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 278
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 282
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 286
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 290
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 294
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 299
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 339
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 356
+[19-Aug-2017 13:50:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 13:50:19 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 236
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 245
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 249
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 254
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 259
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 264
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 269
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 274
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 278
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 282
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 286
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 290
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 294
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 299
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 339
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php on line 356
+[19-Aug-2017 13:50:35 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-2.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 13:50:36 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 13:50:44 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:50:44 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:50:44 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 13:50:44 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:54:59 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:54:59 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:54:59 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 13:54:59 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:55:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 13:55:33 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 13:55:33 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 13:55:33 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 13:55:33 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 14:04:39 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 14:04:39 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 14:04:39 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 14:04:39 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 14:04:39 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 14:14:25 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 14:14:25 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 14:14:25 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 14:14:25 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 14:14:25 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 14:51:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 14:51:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 14:51:38 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 14:51:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[19-Aug-2017 15:01:07 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:01:11 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[19-Aug-2017 15:01:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(5): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:01:53 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 15:06:58 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:06:58 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:06:58 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:06:58 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:06:58 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 15:18:39 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:18:39 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:18:39 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 15:18:39 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:33:03 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:33:03 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:33:03 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 15:33:03 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 15:33:03 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 15:40:36 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 15:40:36 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 15:40:36 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 15:40:36 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:23:22 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:23:22 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:23:22 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:23:22 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:23:22 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 16:30:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:30:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:30:02 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 16:30:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:31:31 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:31:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:29 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:32 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:33 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:37 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:38 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: ayear in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 3
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Notice:  Undefined index: ses_cat in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 4
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Warning:  include(.inc.php): failed to open stream: No such file or directory in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:37:23 Asia/Kolkata] PHP Warning:  include(): Failed opening '.inc.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php on line 5
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:41:32 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 16:41:34 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[19-Aug-2017 20:39:36 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 20:39:36 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 20:39:36 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[19-Aug-2017 20:39:36 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 20:46:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[19-Aug-2017 20:46:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[19-Aug-2017 20:46:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[19-Aug-2017 20:46:23 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[19-Aug-2017 20:46:23 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[20-Aug-2017 12:20:28 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[20-Aug-2017 12:24:18 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[20-Aug-2017 12:27:04 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[20-Aug-2017 12:29:53 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[20-Aug-2017 17:41:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 17:41:10 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 17:41:10 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[20-Aug-2017 17:41:10 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 17:43:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[20-Aug-2017 17:43:19 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[20-Aug-2017 17:43:19 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[20-Aug-2017 17:43:19 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[20-Aug-2017 17:43:19 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[21-Aug-2017 08:43:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 08:43:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 08:43:23 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 08:43:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 08:57:07 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 08:57:07 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 08:57:07 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 08:57:07 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 08:57:26 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 08:57:26 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 08:57:26 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 08:57:26 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 17:12:31 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 17:12:31 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 17:12:31 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 17:12:31 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:46:16 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 20:46:16 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 20:46:16 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 20:46:16 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[21-Aug-2017 20:46:35 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[21-Aug-2017 20:46:38 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[21-Aug-2017 20:48:33 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[21-Aug-2017 20:48:38 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[22-Aug-2017 10:35:14 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 10:35:14 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 10:35:14 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 10:35:14 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[22-Aug-2017 18:33:58 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 18:33:58 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 18:33:58 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 18:33:58 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[22-Aug-2017 20:18:30 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 20:18:30 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 20:18:30 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 20:18:30 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[22-Aug-2017 20:18:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 20:18:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 20:18:56 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 20:18:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[22-Aug-2017 20:21:42 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 20:21:42 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 20:21:42 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 20:21:42 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[22-Aug-2017 20:35:53 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[22-Aug-2017 20:35:53 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[22-Aug-2017 20:35:53 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[22-Aug-2017 20:35:53 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 12:53:36 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 12:53:36 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 12:53:36 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[23-Aug-2017 12:53:36 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 12:53:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 12:53:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 12:53:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 12:53:56 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[23-Aug-2017 12:53:56 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-3.inc.php on line 19
+[23-Aug-2017 14:32:37 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 14:32:37 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 14:32:37 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[23-Aug-2017 14:32:37 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 15:55:58 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 15:55:58 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 15:55:58 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[23-Aug-2017 15:55:58 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 15:56:25 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 15:56:25 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 15:56:25 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[23-Aug-2017 15:56:25 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[23-Aug-2017 22:51:10 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[23-Aug-2017 22:51:10 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[23-Aug-2017 22:51:10 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[23-Aug-2017 22:51:10 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:33:41 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[28-Aug-2017 16:33:59 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[28-Aug-2017 16:34:02 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[28-Aug-2017 16:34:20 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:34:20 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:34:20 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:34:20 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:36:43 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:36:43 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:36:43 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:36:43 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[28-Aug-2017 16:36:58 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[28-Aug-2017 16:37:02 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[28-Aug-2017 16:37:44 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[28-Aug-2017 16:37:44 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[28-Aug-2017 16:37:44 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[28-Aug-2017 16:37:44 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[29-Aug-2017 16:40:39 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[29-Aug-2017 16:40:39 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[29-Aug-2017 16:40:39 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[29-Aug-2017 16:40:39 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:34:18 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:34:18 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:34:18 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:34:18 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[30-Aug-2017 20:34:42 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[30-Aug-2017 20:34:45 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[30-Aug-2017 20:34:54 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:34:54 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:34:54 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:34:54 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[30-Aug-2017 20:35:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps_new/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps_new/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps_new/Admin/includes/fpdf/fpdf.php on line 271
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps_new/App/index.php on line 16
+[30-Aug-2017 20:35:34 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps_new/App/home.inc.php on line 117
+[30-Aug-2017 20:35:49 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:35:49 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:35:49 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:35:49 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:49:12 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:49:12 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:49:12 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:49:12 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[30-Aug-2017 20:50:46 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps_new/App/index.php on line 7
+[30-Aug-2017 20:50:46 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps_new/App/index.php on line 11
+[30-Aug-2017 20:50:46 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps_new/App/index.php on line 13
+[30-Aug-2017 20:50:46 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps_new/App/index.php on line 14
+[04-Sep-2017 12:55:32 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[04-Sep-2017 12:55:32 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[04-Sep-2017 12:55:32 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[04-Sep-2017 12:55:32 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[04-Sep-2017 12:55:53 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php on line 271
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[04-Sep-2017 12:55:57 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps/App/home.inc.php on line 117
+[04-Sep-2017 17:23:06 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[04-Sep-2017 17:23:06 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[04-Sep-2017 17:23:06 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[04-Sep-2017 17:23:06 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[09-Sep-2017 16:00:48 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[09-Sep-2017 16:00:48 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[09-Sep-2017 16:00:48 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[09-Sep-2017 16:00:48 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[12-Sep-2017 15:14:19 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[12-Sep-2017 15:14:19 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[12-Sep-2017 15:14:19 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[12-Sep-2017 15:14:19 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 227
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 236
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 245
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 249
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 254
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 259
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 264
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 269
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 274
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 278
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 282
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 286
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 290
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 294
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result3 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result4 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: result5 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 316
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 333
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 350
+[12-Sep-2017 15:14:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php(350): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php on line 271
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[12-Sep-2017 15:14:34 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps/App/home.inc.php on line 117
+[26-Sep-2017 14:37:27 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[26-Sep-2017 14:37:27 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[26-Sep-2017 14:37:27 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[26-Sep-2017 14:37:27 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 227
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 236
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 245
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 249
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 254
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 259
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 264
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 269
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 274
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 278
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 282
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 286
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 290
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 294
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 299
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 328
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 339
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php on line 356
+[26-Sep-2017 14:37:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-3.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php on line 271
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[26-Sep-2017 14:37:56 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps/App/home.inc.php on line 117
+[28-Sep-2017 18:48:25 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[28-Sep-2017 18:48:25 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[28-Sep-2017 18:48:25 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[28-Sep-2017 18:48:25 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: gh in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: ses in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: version in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 227
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_pname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 236
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_psc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 245
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_pc_no in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 249
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_event in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 254
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_pgender in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 259
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_ph in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 264
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_def in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 269
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_jk in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 274
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_pbranch in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 278
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 282
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_padd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 286
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_ladd in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 290
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_pclgname in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 294
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_ai_mn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 299
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa1 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: sgpa2 in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 328
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: pdate in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 339
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Notice:  Undefined variable: m_prn in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php on line 356
+[28-Sep-2017 18:50:02 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1063): FPDF->Error('Some data has a...')
+#1 /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php(1012): FPDF->_checkoutput()
+#2 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-2.inc.php(356): FPDF->Output('D', 'Hostel_Form_.pd...')
+#3 /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/generate.blaze.php(6): include('/home/gcoejjif/...')
+#4 /home/gcoejjif/public_html/caps/App/index.php(20): include('/home/gcoejjif/...')
+#5 {main}
+  thrown in /home/gcoejjif/public_html/caps/Admin/includes/fpdf/fpdf.php on line 271
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[28-Sep-2017 18:50:09 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps/App/home.inc.php on line 117
+[28-Sep-2017 18:50:46 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[28-Sep-2017 18:50:46 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[28-Sep-2017 18:50:46 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[28-Sep-2017 18:50:46 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Oct-2017 21:34:07 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[01-Oct-2017 21:34:07 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[01-Oct-2017 21:34:07 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[01-Oct-2017 21:34:07 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 19
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[01-Oct-2017 21:34:23 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 19
+[04-Oct-2017 15:58:22 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[04-Oct-2017 15:58:22 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[04-Oct-2017 15:58:22 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[04-Oct-2017 15:58:22 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[10-Oct-2017 19:04:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[10-Oct-2017 19:04:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[10-Oct-2017 19:04:56 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[10-Oct-2017 19:04:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[10-Oct-2017 19:21:50 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[10-Oct-2017 19:21:50 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[10-Oct-2017 19:21:50 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[10-Oct-2017 19:21:50 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[13-Oct-2017 18:01:23 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[13-Oct-2017 18:01:23 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[13-Oct-2017 18:01:23 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[13-Oct-2017 18:01:23 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[19-Oct-2017 23:18:26 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[19-Oct-2017 23:18:26 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[19-Oct-2017 23:18:26 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[19-Oct-2017 23:18:26 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Nov-2017 18:11:46 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[01-Nov-2017 18:11:46 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[01-Nov-2017 18:11:46 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[01-Nov-2017 18:11:46 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Nov-2017 18:11:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[01-Nov-2017 18:11:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[01-Nov-2017 18:11:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[01-Nov-2017 18:11:56 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[01-Nov-2017 18:11:56 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 19
+[03-Nov-2017 09:57:32 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[03-Nov-2017 09:57:32 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[03-Nov-2017 09:57:32 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[03-Nov-2017 09:57:32 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[13-Nov-2017 17:58:26 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[13-Nov-2017 17:58:26 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[13-Nov-2017 17:58:26 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[13-Nov-2017 17:58:26 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[15-Nov-2017 00:08:17 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[15-Nov-2017 00:08:17 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[15-Nov-2017 00:08:17 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[15-Nov-2017 00:08:17 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[15-Nov-2017 00:09:04 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[15-Nov-2017 00:09:04 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[15-Nov-2017 00:09:04 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[15-Nov-2017 00:09:04 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[15-Nov-2017 00:09:15 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[15-Nov-2017 00:09:15 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[15-Nov-2017 00:09:15 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[15-Nov-2017 00:09:15 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[21-Nov-2017 19:12:02 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[21-Nov-2017 19:12:02 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[21-Nov-2017 19:12:02 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[21-Nov-2017 19:12:02 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[23-Nov-2017 18:19:10 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[23-Nov-2017 18:19:10 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[23-Nov-2017 18:19:10 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[23-Nov-2017 18:19:10 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[23-Nov-2017 18:19:28 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[23-Nov-2017 18:19:28 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[23-Nov-2017 18:19:28 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[23-Nov-2017 18:19:28 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[23-Nov-2017 18:19:28 Asia/Kolkata] PHP Notice:  Undefined index: membs in /home/gcoejjif/public_html/caps/App/blaze/reports.inc.php/Category-1.inc.php on line 19
+[24-Nov-2017 11:12:56 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[24-Nov-2017 11:12:56 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[24-Nov-2017 11:12:56 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[24-Nov-2017 11:12:56 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[30-Nov-2017 23:03:57 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[30-Nov-2017 23:03:57 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[30-Nov-2017 23:03:57 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[30-Nov-2017 23:03:57 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[02-Dec-2017 14:14:13 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[02-Dec-2017 14:14:13 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[02-Dec-2017 14:14:13 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[02-Dec-2017 14:14:13 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[05-Dec-2017 19:08:42 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[05-Dec-2017 19:08:42 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[05-Dec-2017 19:08:42 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[05-Dec-2017 19:08:42 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[05-Dec-2017 21:42:28 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[05-Dec-2017 21:42:28 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[05-Dec-2017 21:42:28 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[05-Dec-2017 21:42:28 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  Undefined index: form_cat in /home/gcoejjif/public_html/caps/App/index.php on line 16
+[06-Dec-2017 15:49:38 Asia/Kolkata] PHP Notice:  Undefined variable: opr_msg_flag in /home/gcoejjif/public_html/caps/App/home.inc.php on line 117
+[07-Dec-2017 14:25:13 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[07-Dec-2017 14:25:13 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[07-Dec-2017 14:25:13 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[07-Dec-2017 14:25:13 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[07-Dec-2017 15:15:41 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[07-Dec-2017 15:15:41 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[07-Dec-2017 15:15:41 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[07-Dec-2017 15:15:41 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[07-Dec-2017 15:16:04 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[07-Dec-2017 15:16:04 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[07-Dec-2017 15:16:04 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[07-Dec-2017 15:16:04 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[08-Dec-2017 18:50:05 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[08-Dec-2017 18:50:05 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[08-Dec-2017 18:50:05 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[08-Dec-2017 18:50:05 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[08-Dec-2017 19:11:57 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[08-Dec-2017 19:11:57 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[08-Dec-2017 19:11:57 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[08-Dec-2017 19:11:57 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[11-Dec-2017 11:34:20 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[11-Dec-2017 11:34:20 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[11-Dec-2017 11:34:20 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[11-Dec-2017 11:34:20 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
+[11-Dec-2017 12:26:52 Asia/Kolkata] PHP Notice:  A session had already been started - ignoring session_start() in /home/gcoejjif/public_html/caps/App/index.php on line 7
+[11-Dec-2017 12:26:52 Asia/Kolkata] PHP Notice:  Undefined index: act_request in /home/gcoejjif/public_html/caps/App/index.php on line 11
+[11-Dec-2017 12:26:52 Asia/Kolkata] PHP Notice:  Undefined index: act in /home/gcoejjif/public_html/caps/App/index.php on line 13
+[11-Dec-2017 12:26:52 Asia/Kolkata] PHP Notice:  Undefined index: access_token in /home/gcoejjif/public_html/caps/App/index.php on line 14
